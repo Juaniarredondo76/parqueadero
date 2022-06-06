@@ -1,0 +1,14 @@
+id 
+placa
+Fecha/hora entrada
+Fecha/hora salida
+tipo
+modelo
+id_celda
+-descripcion de vihiculo 
+-total a pagar 
+
+get buscar todos
+get buscar po id 
+post inserta
+put editar 

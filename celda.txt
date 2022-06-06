@@ -1,0 +1,9 @@
+id 
+numero (celda/espacio)
+tarifa
+estado(activo/inactivo)
+
+get buscar todos
+get buscar po id 
+post inserta
+put editar 
